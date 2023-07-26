@@ -1,4 +1,4 @@
-# Shelly not finished ?(7-30-23)?
+# Shelly not finished (7-30-23)
 #-EZ reverse shell script
 ## before attack you will need
 - ip
@@ -8,3 +8,4 @@
 ## example commenads
 `python main.py --user dan --ip 10.0.0.1`
 ---
+![TURT](images/SHELL.png)
