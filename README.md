@@ -31,6 +31,8 @@ The script may require elevated privileges to run, especially on Windows systems
 
 Ensure that the script has necessary firewall and network access to connect to the target machine via SSH.
 
+## HELP AND SUPPORT
+If any problems with this script contact me via discord: h4d0ckz
 
 # This script is for educational and testing purposes only. Do not use it for illegal activities or to harm others. The creators of this script are not responsible for any misuse or damage caused by it.
 --
